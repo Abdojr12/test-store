@@ -61,6 +61,6 @@
 
 @media (max-width: 600px) {
   .cards {
-    grid-template-columns: 1fr; /* 1 فالسطر */
+    grid-template-columns: 2fr; /* 1 فالسطر */
   }
 }
